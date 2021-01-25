@@ -1,0 +1,2 @@
+# TISSU-INTERACTIF
+Le projet « tissu interactif » s’inscrit dans le cadre de l’alliance des nouvelles technologies et de l’art en collaboration avec l’artiste Laurence DREANO. L’idée est de créer des vêtements technologiques s’inspirant de son univers artistique. Il s’agit de mettre en place un système de « tissu interactif »   intégré à un vêtement permettant de l’illuminer. Cette illumination du vêtement se fera en fonction de de l’utilisateur et de son environnement (orientation, position, pulsations cardiaques, etc.…)
